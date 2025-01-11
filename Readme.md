@@ -8,7 +8,7 @@ First i would like to thank the All-Mighty God who is the source of all knowledg
 
 ## Introduction
 
-This repository provides code to deploy an executable on a remote machine, execute it, and establish shell access via websocket communication.
+This repository provides code that allows you to create an executable that can establish a remote shell back to your machine via websockets
 
 ## Features
 
