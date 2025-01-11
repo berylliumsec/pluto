@@ -1,0 +1,6 @@
+numpy
+PyQt6
+websockets
+backoff
+pyinstaller
+opencv-python
